@@ -1,0 +1,26 @@
+{
+    "folders": [
+        {
+            "path": "../content",
+            "name": "content"
+        },
+        {
+            "path": "../themes/hugoplate",
+            "name": "theme"
+        },
+        {
+            "path": "..",
+            "name": "<root>"
+        }
+    ],
+    "extensions": {
+        "recommendations": [
+            "budparr.language-hugo-vscode",
+            "lokalise.i18n-ally",
+            "tamasfe.even-better-toml",
+        ]
+    },
+    "settings": {
+        
+    }
+}
