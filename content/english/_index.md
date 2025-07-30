@@ -1,53 +1,82 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Atbrīvojies no iekaisuma sāpēm ar lāzera palīdzību"
+  content: "Summus medicīnas lāzera procedūra ir neinvazīva terapijas metode sāpju mazināšanai, asins cirkulācijas uzlabošanai un iekaisumu ārstēšanai."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Pieteikties procedūrai"
+    link: "/contact"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+  - title: "Kas ir Summus lāzera procedūra?"
+    image: "/images/lazers-uz-rokas.jpg"
+    content: "Lāzerterapija ir lāzera gaismas iedarbība uz bioloģiskajiem audiem. Tās mērķis ir stimulēt šūnu procesus un pastiprināt bioķīmisko mehānismu aktivizāciju, kuri veicina dzīšanu, sāpju mazināšanu, iekaisuma mazināšanu un audu reģenerāciju."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Procedūra ilgst 15 minūtes"
+      - "Lāzerterapija ir droša un neinvazīva metode praktiski bez blakusparādībām"
+      - "Pacienta atgriešanos laiku pie iepriekšējo aktivitāšu līmeņa paātrina par 50%"
+      - "Lāzerterapijas laikā infrasarkanā lāzera gaisma mijiedarbojas ar audiem šūnu līmenī, palielinot vielmaiņas aktivitāti šūnā."
+      - "Palielina asinsriti, piesaistot ūdeni, skābekli un barības vielas bojātajai vietai. Tas rada optimālu dziedniecisko vidi, kas samazina iekaisumu, pietūkumu, muskuļu spazmas, stīvumu un sāpes."
+      - "Kad ievainotā zona normalizējas, atjaunojas funkcijas un mazinās sāpes"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Viss par lāzera darbību"
+      link: "/lazera-darbiba.md"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Kādos gadījumos var palīdzēt Summus lāzera procedūra?"
+    image: "/images/lazerekrans.png"
+    content: "Procedūra ir efektīva virspusēju brūču, muskuļu, cīpslu, locītavu traumu, kā arī dziļu neiroloģisku problēmu gadījumā."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - Sāpes muguras lejasdaļā
+      - Kakla sāpes/artrīts
+      - Muskuļu spazmas/ trigeru punkti
+      - Ceļa sāpes
+      - Pleca sāpes
+      - Tenisa elkonis
+      - Sāpes rokās
+      - Sāpes gūžas locītavā
+      - Sāpes pēdā – plantārais fascīts
+      - Galvassāpes
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Pieteikties lāzera procedūrai"
+      link: "/contact"
+
+
+# Testimonials
+testimonials:
+  title: "Atsauksmes"
+  description: "Uzzini, ko par Summo lāzera procedūru domā mūsu klienti!"
+  data:
+  - name: "Jānis Bērziņš"
+    designation: "Latvijas hokeja izlases sporta ārsts"
+    avatar: "/images/avatar-sm.png"
+    content: "Lāzeru procedūras mums ļāva ātrāk atgriezt spēlētājus uz kājām. Noteikti izmantosim arī nākamajā sezonā."
+
+  - name: "Gatis Ozoliņš"
+    designation: "Latvijas Basketbola izlases sporta ārsts"
+    avatar: "/images/avatar-sm.png"
+    content: "Summus lāzērs bija neaizstājams rīks visas sezonas garumā. Var burtiski redzēt, kā dzīst sastiepumi pateicoties tam."
+
+  - name: "Kārlis Kļaviņš"
+    designation: "Profesionāls volejbolists"
+    avatar: "/images/avatar-sm.png"
+    content: "Ilgā laika posma izgāju visādus ārstus un tā arī netapa skaidrs kas man par kaiti. Pamēģināju Summus lāzeru uzstarot sāpīgajai vietai un palīdzēja!"
+
+  - name: "Marta Arta"
+    designation: "Vieglatlēte"
+    avatar: "/images/avatar-sm.png"
+    content: "Sastiepu potīti un fizioterapeits ieteica palīdzēt sadzīšanas procesam ar lāzeru procedūru. Tiešām sadzija labāk un ātrāk."
+
+
 ---
+
+### Gallery
+
+{{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+
+<hr>
+

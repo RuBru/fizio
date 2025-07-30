@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Kontakti"
 meta_title: ""
 description: "this is meta description"
 draft: false
