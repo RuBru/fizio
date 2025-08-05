@@ -58,12 +58,6 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
         run: |
-          ls -la
-          wc package-lock.json
-          git log --oneline
-          git status
-          node -v
-          npm -v
           npm ci
       - name: Cache Restore
         id: cache-restore
