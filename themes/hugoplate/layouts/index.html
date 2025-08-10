@@ -79,8 +79,16 @@
   <!-- /Features -->
 
 <section class="section pt-14">
-  <h2>Gallery Yay</h2>
-  {{ partial "gallery.html" (dict "Dir" "/images/gallery") }}
+  <div class="container">
+    <div class="row items-center justify-center">
+      <div class="col-12 mb-6 text-center">
+        <h2>Procedūras norise</h2>
+      </div>
+      <div class="col-12">
+        {{ partial "video.html" (dict "Src" "https://www.w3schools.com/html/mov_bbb.mp4" "Width" "9999" "Height" "auto" "Autoplay" "false" "Loop" "false" "Muted" "false" "Controls" "true" "Class" "ght-video") }}
+      </div>
+    </div>
+  </div>
 </section>
 
   <!-- Testimonials -->
