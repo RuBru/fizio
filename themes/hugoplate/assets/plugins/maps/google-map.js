@@ -4,7 +4,7 @@
 
 window.marker = null;
 
-function initialize() {
+async function initialize() {
   var map,
     mapId = document.getElementById("map");
   var latitude = mapId.getAttribute("data-latitude");
@@ -138,10 +138,10 @@ function initialize() {
     },
   ];
   var mapOptions = {
+    mapId: "eb63eff5efe597834faf2657",
     center: nottingham,
-    mapTypeId: google.maps.MapTypeId.ROADMAP,
     backgroundColor: "#000",
-    zoom: 15,
+    zoom: 16,
     panControl: !1,
     zoomControl: !0,
     mapTypeControl: !1,
@@ -153,23 +153,15 @@ function initialize() {
     },
   };
   map = new google.maps.Map(document.getElementById("map"), mapOptions);
-  var mapType = new google.maps.StyledMapType(style, {
-    name: "Grayscale",
+
+  const { AdvancedMarkerElement, PinElement } = await google.maps.importLibrary("marker");
+  const pin = new PinElement({
+    scale: 1.3,
   });
-  map.mapTypes.set("grey", mapType);
-  map.setMapTypeId("grey");
-  var marker_image = mapMarker;
-  var pinIcon = new google.maps.MarkerImage(
-    marker_image,
-    null,
-    null,
-    null,
-    new google.maps.Size(30, 50),
-  );
-  marker = new google.maps.Marker({
+  marker = new AdvancedMarkerElement({
     position: nottingham,
     map: map,
-    icon: pinIcon,
+    content: pin.element,
     title: mapMarkerName,
   });
 }
