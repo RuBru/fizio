@@ -30,16 +30,16 @@ features:
     image: "/images/lazerekrans.png"
     content: "Procedūra ir efektīva virspusēju brūču, muskuļu, cīpslu, locītavu traumu, kā arī dziļu neiroloģisku problēmu gadījumā."
     bulletpoints:
-      - Sāpes muguras lejasdaļā
-      - Kakla sāpes/artrīts
-      - Muskuļu spazmas/ trigeru punkti
-      - Ceļa sāpes
-      - Pleca sāpes
-      - Tenisa elkonis
-      - Sāpes rokās
-      - Sāpes gūžas locītavā
-      - Sāpes pēdā – plantārais fascīts
-      - Galvassāpes
+      - Muguras sāpes – tai skaitā jostas daļas diskomforts un muskuļu saspringums
+      - Kakla sāpes un artrīts – kustību ierobežojums, hronisksks muskuļu saspringums
+      - Muskuļu spazmas un trigerpunkti – saspringums, kas rada sāpes vai ierobežo kustības
+      - Ceļa locītavas sāpes – artrīts, meniska bojājumi, pēc traumām
+      - Plecu sāpes – iesaldēts plecs, rotatora manžetes iekaisums
+      - Elkoņa sāpes – tenisa vai golfa elkonis
+      - Sāpes rokās – pārslodze, karpālā kanāla sindroms, pēc traumām
+      - Gūžas locītavas sāpes – artrīts, tendinīts, muskuļu saspringums
+      - Pēdas sāpes – plantārais fascīts, Ahileja cīpslas iekaisums
+      - Galvassāpes un migrēna – saspringums un muskuļu izraisītas galvassāpes
     button:
       enable: true
       label: "Pieteikties lāzera procedūrai"
