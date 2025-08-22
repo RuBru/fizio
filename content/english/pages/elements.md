@@ -3,28 +3,37 @@ title: "Lāzera darbība"
 # meta title
 meta_title: ""
 # meta description
-description: "This is meta description"
+description: "Kā darbojas Summus lāzers"
 # save as draft
 draft: false
 ---
 
-{{< toc >}}
 
-Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
+# Kas ir lāzerterapija?
 
-# Heading 1
+Lāzerterapija ir sarkanās un infrasarkanās lāzera gaismas iedarbība uz bioloģiskajiem audiem ar mērķi stimulēt šūnu procesus un pastiprināt bioķīmisko mehānismu aktivizāciju, kas izraisa specifisku procesu aktivizāciju, kuri veicina dzīšanu, sāpju mazināšanu, iekaisuma mazināšanu un audu reģenerāciju.
 
-## Heading 2
+## Kāda ir Summus lāzera ietekme uz šūnām?
 
-### Heading 3
+- Lāzerterapijas laikā infrasarkanā lāzera gaisma mijiedarbojas ar audiem šūnu līmenī, palielinot vielmaiņas aktivitāti šūnā.
+- IV klases lāzerterapija, ko izmanto Summus lāzers, darbojas, stimulējot mitohondrijus, lai palielinātu ATF (adenozīna trifosfāta) ražošanu, kam ir būtiska nozīme šūnu enerģijas ražošanā un vielmaiņā, tādējādi veicinot audu atjaunošanos.
+- Viena no IV klases lāzera nozīmīgām priekšrocībām ir tā spēja iekļūt ādas audos noteiktā dziļumā un radīt reaktīvās skābekļa formas, kas aktivizē signālu ceļus audu reģenerācijai, vienlaikus samazinot iekaisumu un uzlabojot asins plūsmu
 
-#### Heading 4
+### Ieguvumi no lāzerterapijas
 
-##### Heading 5
+- Labāka asinsrite
+- Vairāk skābekļa audos
+- Šūnas ražo vairāk enerģijas
 
-###### Heading 6
+{{< image src="images/image-placeholder.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+
 
 <hr>
+
+# Situācijas, kurās sasniegti labi un ātri rezultāti
+
+
+
 
 ### Emphasis
 
@@ -38,11 +47,7 @@ Strike through uses two tildes. ~~Scratch this.~~
 
 <hr>
 
-### Button
 
-{{< button label="Button" link="/" style="solid" >}}
-
-<hr>
 
 ### Link
 
@@ -256,3 +261,10 @@ flowchart TD
 ### Custom video
 
 {{< video src="https://www.w3schools.com/html/mov_bbb.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}
+
+
+### Button
+
+{{< button label="Button" link="/" style="solid" >}}
+
+<hr>
