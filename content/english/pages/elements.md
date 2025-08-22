@@ -30,6 +30,20 @@ Lāzerterapija ir sarkanās un infrasarkanās lāzera gaismas iedarbība uz biol
 Īpaši labus un ātrus rezultātus var sasniegt muskuļu vai saišu iekaisumu, sasitumu, vai locītavu sāpju gadījumos.
 
 
+### Kad izvairīties no lāzerprocedūras?
+
+Lāzerprocedūra nav ieteicama grūtniecēm un onkoloģijas pacientiem akūtā fāzē.
+To neiesaka izmantot vairogdziedzera tuvumā.
+
+Citi ierboežojumi iekļauj:
+- **Steroīdu injekcijas**: jāgaida vismaz 7 dienas, lai apstrādātu vietu tieši virs injekcijas; citu ķermeņa daļu apstrāde ir atļauta nekavējoties.
+- **Orāli steroīdi** - ir iespējams veikt lāzera procedūru ar mazāku jaudu, taču jāņem vērā, ka pēc procedūras var palielināties jutība apstrādājamajā zonā.
+- **Tetovējumi** - nav atļauts ārstēt tieši virs tetovējuma, bet ir atļauts ārstēt ap tetovējumu.
+- **Kosmētika** - procedūra jāveic uz tīras, sausas ādas.
+- **Muguras smadzeņu stimulatori** - Tā kā lāzera iedarbība uz pacientiem ar muguras smadzeņu stimulatoru implantiem nav pilnībā izpētīta, nav ieteicams ārstēt šos pacientus ar lāzera terapiju.
+- **Pacemakeri** - ir atļauts un ir droši ārstēt pacientus ar elektrokardiostimulatoru, tomēr pacienta komforta labad nav ieteicams ar lāzeru pāriet tieši pāri elektrokardiostimulatoram.
+
+
 ## Tehniskie parametri
 
 Ar lāzerterapiju var iedarboties uz audiem caur 4 dažādiem viļņu garumiem dažādās kombinācijās. Ar Summus lāzerterapiju piejami 1300+ ārstēšanas protokoli.
