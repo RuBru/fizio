@@ -1,5 +1,5 @@
 ---
-title: "Lāzera darbība"
+title: "Lāzerterapija"
 # meta title
 meta_title: ""
 # meta description
@@ -9,15 +9,17 @@ draft: false
 ---
 
 
-# Kas ir lāzerterapija?
+## Kas ir lāzerterapija?
 
 Lāzerterapija ir sarkanās un infrasarkanās lāzera gaismas iedarbība uz bioloģiskajiem audiem ar mērķi stimulēt šūnu procesus un pastiprināt bioķīmisko mehānismu aktivizāciju, kas izraisa specifisku procesu aktivizāciju, kuri veicina dzīšanu, sāpju mazināšanu, iekaisuma mazināšanu un audu reģenerāciju.
 
-## Kāda ir Summus lāzera ietekme uz šūnām?
+### Kāda ir Summus lāzera ietekme uz šūnām?
 
 - Lāzerterapijas laikā infrasarkanā lāzera gaisma mijiedarbojas ar audiem šūnu līmenī, palielinot vielmaiņas aktivitāti šūnā.
 - IV klases lāzerterapija, ko izmanto Summus lāzers, darbojas, stimulējot mitohondrijus, lai palielinātu ATF (adenozīna trifosfāta) ražošanu, kam ir būtiska nozīme šūnu enerģijas ražošanā un vielmaiņā, tādējādi veicinot audu atjaunošanos.
 - Viena no IV klases lāzera nozīmīgām priekšrocībām ir tā spēja iekļūt ādas audos noteiktā dziļumā un radīt reaktīvās skābekļa formas, kas aktivizē signālu ceļus audu reģenerācijai, vienlaikus samazinot iekaisumu un uzlabojot asins plūsmu
+
+{{< image src="images/blood-cells.png" caption="" alt="blood cells in blood vessels" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="blood cells"  webp="false" >}}
 
 ### Ieguvumi no lāzerterapijas
 
@@ -25,246 +27,65 @@ Lāzerterapija ir sarkanās un infrasarkanās lāzera gaismas iedarbība uz biol
 - Vairāk skābekļa audos
 - Šūnas ražo vairāk enerģijas
 
-{{< image src="images/image-placeholder.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+Īpaši labus un ātrus rezultātus var sasniegt muskuļu vai saišu iekaisumu, sasitumu, vai locītavu sāpju gadījumos.
 
 
-<hr>
+## Tehniskie parametri
 
-# Situācijas, kurās sasniegti labi un ātri rezultāti
-
-
-
-
-### Emphasis
-
-The emphasis, aka italics, with _asterisks_ or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
-
-The combined emphasis with **asterisks and _underscores_**.
-
-Strike through uses two tildes. ~~Scratch this.~~
-
-<hr>
-
-
-
-### Link
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links.
-<http://www.example.com> or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
-
-<hr>
-
-### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-<hr>
-
-### Unordered List
-
-- List item
-- List item
-- List item
-- List item
-- List item
-
-<hr>
-
-### Notice
-
-{{< notice "note" >}}
-This is a simple note.
-{{< /notice >}}
-
-{{< notice "tip" >}}
-This is a simple tip.
-{{< /notice >}}
-
-{{< notice "info" >}}
-This is a simple info.
-{{< /notice >}}
-
-{{< notice "warning" >}}
-This is a simple warning.
-{{< /notice >}}
-
-<hr>
-
-### Tab
+Ar lāzerterapiju var iedarboties uz audiem caur 4 dažādiem viļņu garumiem dažādās kombinācijās. Ar Summus lāzerterapiju piejami 1300+ ārstēšanas protokoli.
 
 {{< tabs >}}
-{{< tab "Tab 1" >}}
+{{< tab "650 nm" >}}
 
-#### Hey There, I am a tab
+#### 650 nanometri iedarbojas uz virspusējiem receptoriem
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-{{< /tab >}}
-
-{{< tab "Tab 2" >}}
-
-#### I wanna talk about the assassination attempt
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+- Paātrina virsējo audu dzīšanu
+- Palielina šūnu reģenerāciju
+- Saīsina dziedināšanas laiku
 
 {{< /tab >}}
 
-{{< tab "Tab 3" >}}
+{{< tab "810 nm" >}}
 
-#### We know you’re dealing in stolen ore
+#### 810 nanometri iedarbojas uz mitohondrijiem
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+- Palielina skābekļa pārvēršanu ATF (adenozīna trifosfātā)
+- Paātrina šūnu metabolismu
+- Dziļākā audu penetrācija
+- Stimulē imūnsistēmu
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
+{{< /tab >}}
+
+{{< tab "915 nm" >}}
+
+#### 915 nanometri iedarbojas uz hemoglobīnu
+
+- Divkāršo skābekļa piegādi audiem
+- Uzlabo sāpju mazināšanu
+- Pastiprina dziedinošo iedarbību
+
+{{< /tab >}}
+
+{{< tab "980 nm" >}}
+
+#### 980 nanometri iedarbojas uz ūdeni asinīs
+
+- Uzlabo asinsriti
+- Sāpju mazināšana
+- Samazina saslimstību
+- Ātrāka atveseļošanās
 
 {{< /tab >}}
 {{< /tabs >}}
 
-<hr>
 
-### Accordions
+<!-- image -->
 
-{{< accordion "Why should you need to do this?" >}}
-
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
-
-{{< /accordion >}}
-
-{{< accordion "How can I adjust Horizontal centering" >}}
-
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
-
-{{< /accordion >}}
-
-{{< accordion "Should you use Negative margin?" >}}
-
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
-
-{{< /accordion >}}
+{{< image src="images/nanometers.png" caption="" alt="wavelenght in nanometers" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="wavelenght in nanometers"  webp="false" >}}
 
 <hr>
 
-### Code and Syntax Highlighting
+{{< button label="Pieteikties procedūrai" link="/contact" style="solid" >}}
 
-This is an `Inline code` sample.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-```c  { linenos=true }
-#include <stdio.h>
-
-int main(void)
-{
-    printf("hello, world\n");
-    return 0;
-}
-```
-
-```mermaid
-flowchart TD
-    A[Start] --> B{Is it?}
-    B -- Yes --> C[OK]
-    C --> D[Rethink]
-    D --> B
-    B -- No ----> E[End]
-```
-
-<hr>
-
-### Blockquote
-
-> Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once.
-
-<hr>
-
-### Tables
-
-| Tables        |      Are      |  Cool |
-| ------------- | :-----------: | ----: |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      |   centered    |   $12 |
-| zebra stripes |   are neat    |    $1 |
-
-<hr>
-
-### Image
-
-{{< image src="images/image-placeholder.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
-
-<hr>
-
-### Gallery
-
-{{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-
-<hr>
-
-### Slider
-
-{{< slider dir="images/gallery" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-
-<hr>
-
-### Youtube video
-
-{{< youtube ResipmZmpDU >}}
-
-<hr>
-
-### Custom video
-
-{{< video src="https://www.w3schools.com/html/mov_bbb.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}
-
-
-### Button
-
-{{< button label="Button" link="/" style="solid" >}}
 
 <hr>
