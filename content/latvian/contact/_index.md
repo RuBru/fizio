@@ -6,7 +6,7 @@ description: "this is meta description"
 draft: false
 ---
 
-ENGLISH
+LATVISKI
 
 - Telefons: <a href='tel:+37128004444'>+371 28004444</a>
 - E-pasts: <a href='mailto:lasersummus@gmail.com'>lasersummus@gmail.com</a>

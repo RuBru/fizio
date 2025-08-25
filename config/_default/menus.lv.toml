@@ -1,0 +1,28 @@
+############# Latvian navigation ##############
+
+# main menu
+[[main]]
+name = "Komanda"
+url = "/authors"
+weight = 1
+
+[[main]]
+name = "Lāzerterapija"
+url = "/lasertherapy"
+weight = 2
+
+[[main]]
+name = "Kontakti"
+url = "/contact"
+weight = 3
+
+# footer menu
+[[footer]]
+name = "Kontakti"
+url = "/contact"
+weight = 1
+
+[[footer]]
+name = "Privātuma politika"
+url = "/privacy-policy"
+weight = 2

@@ -1,6 +1,13 @@
+################ Latvian language ##################
+[lv]
+languageName = "LV"
+languageCode = "lv-lv"
+contentDir = "content/latvian"
+weight = 1
+
 ################ English language ##################
 [en]
-languageName = "En"
+languageName = "EN"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2

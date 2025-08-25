@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Pieteikties procedūrai"
-    link: "contact"
+    link: "/contact"
 
 # Features
 features:
@@ -49,7 +49,7 @@ features:
 # Testimonials
 testimonials:
   title: "Atsauksmes"
-  description: "Uzzini, ko par Summo lāzera procedūru domā mūsu klienti!"
+  description: "Uzzini, ko par Summus lāzera procedūru domā mūsu klienti!"
   data:
   - name: "Jānis Bērziņš"
     designation: "Latvijas hokeja izlases sporta ārsts"

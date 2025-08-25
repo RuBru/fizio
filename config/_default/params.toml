@@ -44,7 +44,7 @@ link = "contact"
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]
-enable = true
+enable = false
 primary_color = "#121212"
 include_sections = ["blog"]
 show_image = true
@@ -64,9 +64,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 [metadata]
 keywords = ["Summus laser", "Fizioterapija"]
 description = "Summus lāzerterapijas procedūras"
-author = "Rota Kalniņa"
-facebook = "rota.bruuna"
-image = "images/lazers-uz-kakla.jpg"
+author = "SIA bruan"
 
 
 # site verifications
