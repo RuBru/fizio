@@ -23,8 +23,8 @@ features:
       - "Kad ievainotā zona normalizējas, atjaunojas funkcijas un mazinās sāpes"
     button:
       enable: true
-      label: "Viss par lāzera darbību"
-      link: "/lazera-darbiba.md"
+      label: "Vairāk par lāzerterapiju"
+      link: "/lasertherapy"
 
   - title: "Kādos gadījumos var palīdzēt Summus lāzera procedūra?"
     image: "/images/lazerekrans.png"
