@@ -12,15 +12,12 @@ banner:
 # Features
 features:
   - title: "Kas ir Summus lāzera procedūra?"
-    image: "/images/lazers-uz-rokas.jpg"
+    video: "/images/video_2025-09-01_00-15-03.mp4"
     content: "Lāzerterapija ir lāzera gaismas iedarbība uz bioloģiskajiem audiem. Tās mērķis ir stimulēt šūnu procesus un pastiprināt bioķīmisko mehānismu aktivizāciju, kuri veicina dzīšanu, sāpju mazināšanu, iekaisuma mazināšanu un audu reģenerāciju."
     bulletpoints:
       - "Procedūra ilgst 15 minūtes"
       - "Lāzerterapija ir droša un neinvazīva metode praktiski bez blakusparādībām"
       - "Pacienta atgriešanos laiku pie iepriekšējo aktivitāšu līmeņa paātrina par 50%"
-      - "Lāzerterapijas laikā infrasarkanā lāzera gaisma mijiedarbojas ar audiem šūnu līmenī, palielinot vielmaiņas aktivitāti šūnā."
-      - "Palielina asinsriti, piesaistot ūdeni, skābekli un barības vielas bojātajai vietai. Tas rada optimālu dziedniecisko vidi, kas samazina iekaisumu, pietūkumu, muskuļu spazmas, stīvumu un sāpes."
-      - "Kad ievainotā zona normalizējas, atjaunojas funkcijas un mazinās sāpes"
     button:
       enable: true
       label: "Vairāk par lāzerterapiju"
@@ -51,32 +48,35 @@ testimonials:
   title: "Atsauksmes"
   description: "Uzzini, ko par Summus lāzera procedūru domā mūsu klienti!"
   data:
-  - name: "Jānis Bērziņš"
-    designation: "Latvijas hokeja izlases sporta ārsts"
+  - name: "Jānis Skābardis"
+    designation: "FS METTA fiziskās sagatavotības treneris"
     avatar: "/images/avatar-sm.png"
-    content: "Lāzeru procedūras mums ļāva ātrāk atgriezt spēlētājus uz kājām. Noteikti izmantosim arī nākamajā sezonā."
+    content: "Procedūras ir viegli veicamas, jo aparatūru var ātri uzstādīt gandrīz jebkurā vietā, arī šauros apstākļos, piemēram, ģērbtuvēs. Tas ļauj izmantot terapiju ne tikai ārsta kabinetā. Lāzerprocedūras būtiski palīdzēja atlabšanas procesā pēc traumām."
 
-  - name: "Gatis Ozoliņš"
-    designation: "Latvijas Basketbola izlases sporta ārsts"
+  - name: "Agnis Otvars"
+    designation: "Sporta ārsts. Latvijas Nacionālās hokeja izlases ārsts 2022. - 2025."
     avatar: "/images/avatar-sm.png"
-    content: "Summus lāzērs bija neaizstājams rīks visas sezonas garumā. Var burtiski redzēt, kā dzīst sastiepumi pateicoties tam."
+    content: "Lieliska, ērta un ļoti mūsdienīga fizikālās medicīnas procedūra, kas praksē sevi attaisnojusi kā potents sāpju mazinošs un dzīšanu stimulējošs papildrīks."
 
   - name: "Kārlis Kļaviņš"
     designation: "Profesionāls volejbolists"
     avatar: "/images/avatar-sm.png"
     content: "Ilgā laika posma izgāju visādus ārstus un tā arī netapa skaidrs kas man par kaiti. Pamēģināju Summus lāzeru uzstarot sāpīgajai vietai un palīdzēja!"
 
-  - name: "Marta Arta"
-    designation: "Vieglatlēte"
+  - name: "Egita Volksone"
     avatar: "/images/avatar-sm.png"
-    content: "Sastiepu potīti un fizioterapeits ieteica palīdzēt sadzīšanas procesam ar lāzeru procedūru. Tiešām sadzija labāk un ātrāk."
+    content: "Lāzeru pricedūras man sakārtoja plecu un lāpstiņas locītavu. Esmu ļoti pateicīga un varu spēlēt pludmales volejbolu bez ierobežojumiem. Liels paldies 🙏💫"
+
+  - name: "Martins Ierags"
+    avatar: "/images/avatar-sm.png"
+    content: "Pēc ceļgala operācijas un divu gadu rehabilitācijas šī procedūra man bija īsts gamechanger – tā atgrieza cerību un kustību brīvību."
 
 
 ---
 
-### Gallery
+<!-- ### Gallery
 
 {{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
-<hr>
+<hr> -->
 

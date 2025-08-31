@@ -1,3 +1,3 @@
 ---
-title: "Komanda"
+title: "Speciālisti"
 ---

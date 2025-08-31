@@ -3,7 +3,7 @@ title: "Lāzerterapija"
 # meta title
 meta_title: ""
 # meta description
-description: "Kā darbojas Summus lāzers"
+description: "Kā darbojas Summus medicīnas lāzers"
 # save as draft
 draft: false
 ---
@@ -16,6 +16,8 @@ Lāzerterapija ir sarkanās un infrasarkanās lāzera gaismas iedarbība uz biol
 ### Kāda ir Summus lāzera ietekme uz šūnām?
 
 - Lāzerterapijas laikā infrasarkanā lāzera gaisma mijiedarbojas ar audiem šūnu līmenī, palielinot vielmaiņas aktivitāti šūnā.
+- Palielina asinsriti, piesaistot ūdeni, skābekli un barības vielas bojātajai vietai. Tas rada optimālu dziedniecisko vidi, kas samazina iekaisumu, pietūkumu, muskuļu spazmas, stīvumu un sāpes.
+- Kad ievainotā zona normalizējas, atjaunojas funkcijas un mazinās sāpes
 - IV klases lāzerterapija, ko izmanto Summus lāzers, darbojas, stimulējot mitohondrijus, lai palielinātu ATF (adenozīna trifosfāta) ražošanu, kam ir būtiska nozīme šūnu enerģijas ražošanā un vielmaiņā, tādējādi veicinot audu atjaunošanos.
 - Viena no IV klases lāzera nozīmīgām priekšrocībām ir tā spēja iekļūt ādas audos noteiktā dziļumā un radīt reaktīvās skābekļa formas, kas aktivizē signālu ceļus audu reģenerācijai, vienlaikus samazinot iekaisumu un uzlabojot asins plūsmu
 

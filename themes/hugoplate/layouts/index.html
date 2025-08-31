@@ -43,7 +43,12 @@
             class="mb:md-0 {{ if not (modBool $i 2) }}
               md:order-2
             {{ end }} md:col-5 mb-6">
-            {{ partial "image" (dict "Src" .image "Alt" "feature image" "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD" "360x") }}
+            {{ if .image }}
+              {{ partial "image" (dict "Src" .image "Alt" "feature image" "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD" "360x") }}
+            {{ end }}
+            {{ if .video }}
+              {{ partial "video.html" (dict "Src" .video "Alt" "feature video" "Width" "400" "Height" "auto" "Autoplay" "false" "Loop" "false" "Muted" "false" "Controls" "true" "Class" "ght-video") }}
+            {{ end }}
           </div>
           <div
             class="{{ if not (modBool $i 2) }}
@@ -78,7 +83,7 @@
   {{ end }}
   <!-- /Features -->
 
-<section class="section pt-14">
+{{/*  <section class="section pt-14">
   <div class="container">
     <div class="row items-center justify-center">
       <div class="col-12 mb-6 text-center">
@@ -89,7 +94,7 @@
       </div>
     </div>
   </div>
-</section>
+</section>  */}}
 
   <!-- Testimonials -->
   {{ with .Params.testimonials }}

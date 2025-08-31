@@ -2,13 +2,13 @@
 
 # main menu
 [[main]]
-name = "Komanda"
-url = "/authors"
+name = "Lāzerterapija"
+url = "/lasertherapy"
 weight = 1
 
 [[main]]
-name = "Lāzerterapija"
-url = "/lasertherapy"
+name = "Speciālisti"
+url = "/authors"
 weight = 2
 
 [[main]]
