@@ -24,7 +24,7 @@ features:
       link: "/lasertherapy"
 
   - title: "Kādos gadījumos var palīdzēt Summus lāzera procedūra?"
-    image: "/images/lazerekrans.png"
+    image: "/images/lazers-uz-rokas.jpg"
     content: "Procedūra ir efektīva virspusēju brūču, muskuļu, cīpslu, locītavu traumu, kā arī dziļu neiroloģisku problēmu gadījumā."
     bulletpoints:
       - Muguras sāpes – tai skaitā jostas daļas diskomforts un muskuļu saspringums
