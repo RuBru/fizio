@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Atbrīvojies no iekaisuma sāpēm ar lāzera palīdzību"
-  content: "Summus medicīnas lāzera procedūra ir neinvazīva terapijas metode sāpju mazināšanai, asins cirkulācijas uzlabošanai un iekaisumu ārstēšanai."
+  content: "Summus medicīnas lāzera procedūra ir neinvazīva terapijas metode sāpju mazināšanai, asins cirkulācijas uzlabošanai un iekaisuma ārstēšanai."
   image: "/images/banner.png"
   button:
     enable: true
@@ -17,7 +17,7 @@ features:
     bulletpoints:
       - "Procedūra ilgst 15 minūtes"
       - "Lāzerterapija ir droša un neinvazīva metode praktiski bez blakusparādībām"
-      - "Pacienta atgriešanos laiku pie iepriekšējo aktivitāšu līmeņa paātrina par 50%"
+      - "Pacienta atgriešanās laiku pie iepriekšējā aktivitāšu līmeņa paātrina par 50%"
     button:
       enable: true
       label: "Vairāk par lāzerterapiju"
@@ -48,15 +48,15 @@ testimonials:
   title: "Atsauksmes"
   description: "Uzzini, ko par Summus lāzera procedūru domā mūsu klienti!"
   data:
-  - name: "Jānis Skābardis"
-    designation: "FS METTA fiziskās sagatavotības treneris"
-    avatar: "/images/avatar-sm.png"
-    content: "Procedūras ir viegli veicamas, jo aparatūru var ātri uzstādīt gandrīz jebkurā vietā, arī šauros apstākļos, piemēram, ģērbtuvēs. Tas ļauj izmantot terapiju ne tikai ārsta kabinetā. Lāzerprocedūras būtiski palīdzēja atlabšanas procesā pēc traumām."
-
   - name: "Agnis Otvars"
     designation: "Sporta ārsts. Latvijas Nacionālās hokeja izlases ārsts 2022. - 2025."
-    avatar: "/images/avatar-sm.png"
+    avatar: "/images/agnis-otvars.png"
     content: "Lieliska, ērta un ļoti mūsdienīga fizikālās medicīnas procedūra, kas praksē sevi attaisnojusi kā potents sāpju mazinošs un dzīšanu stimulējošs papildrīks."
+
+  - name: "Jānis Skābardis"
+    designation: "FS METTA fiziskās sagatavotības treneris"
+    avatar: "/images/janis-skabardis.png"
+    content: "Procedūras ir viegli veicamas, jo aparatūru var ātri uzstādīt gandrīz jebkurā vietā, arī šauros apstākļos, piemēram, ģērbtuvēs. Tas ļauj izmantot terapiju ne tikai ārsta kabinetā. Lāzerprocedūras būtiski palīdzēja atlabšanas procesā pēc traumām."
 
   - name: "Kārlis Kļaviņš"
     designation: "Profesionāls volejbolists"
@@ -69,7 +69,7 @@ testimonials:
 
   - name: "Martins Ierags"
     avatar: "/images/avatar-sm.png"
-    content: "Pēc ceļgala operācijas un divu gadu rehabilitācijas šī procedūra man bija īsts gamechanger – tā atgrieza cerību un kustību brīvību."
+    content: "Pēc ceļgala operācijas un divu gadu rehabilitācijas šī procedūra man bija īsts 'gamechanger' – tā atgrieza cerību un kustību brīvību."
 
 
 ---
