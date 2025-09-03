@@ -7,3 +7,4 @@ description: this is meta description
 
 Profesionālais bakalaura grāds fizioterapijā.
 Summus IV klases terapeitiskā lāzera sertifikāts.
+Ārstniecības personas identifikators: 98520071674
