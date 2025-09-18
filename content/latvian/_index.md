@@ -53,23 +53,22 @@ testimonials:
     avatar: "/images/agnis-otvars.png"
     content: "Lieliska, ērta un ļoti mūsdienīga fizikālās medicīnas procedūra, kas praksē sevi attaisnojusi kā potents sāpju mazinošs un dzīšanu stimulējošs papildrīks."
 
+  - name: "Egita Volksone"
+    avatar: "/images/avatar-sm.png"
+    content: "Lāzeru procedūras man sakārtoja plecu un lāpstiņas locītavu. Esmu ļoti pateicīga un varu spēlēt pludmales volejbolu bez ierobežojumiem. Liels paldies 🙏💫"
+
   - name: "Jānis Skābardis"
     designation: "FS METTA fiziskās sagatavotības treneris"
     avatar: "/images/janis-skabardis.png"
     content: "Procedūras ir viegli veicamas, jo aparatūru var ātri uzstādīt gandrīz jebkurā vietā, arī šauros apstākļos, piemēram, ģērbtuvēs. Tas ļauj izmantot terapiju ne tikai ārsta kabinetā. Lāzerprocedūras būtiski palīdzēja atlabšanas procesā pēc traumām."
 
-  - name: "Kārlis Kļaviņš"
-    designation: "Profesionāls volejbolists"
-    avatar: "/images/avatar-sm.png"
-    content: "Ilgā laika posma izgāju visādus ārstus un tā arī netapa skaidrs kas man par kaiti. Pamēģināju Summus lāzeru uzstarot sāpīgajai vietai un palīdzēja!"
-
-  - name: "Egita Volksone"
-    avatar: "/images/avatar-sm.png"
-    content: "Lāzeru pricedūras man sakārtoja plecu un lāpstiņas locītavu. Esmu ļoti pateicīga un varu spēlēt pludmales volejbolu bez ierobežojumiem. Liels paldies 🙏💫"
-
   - name: "Martins Ierags"
     avatar: "/images/avatar-sm.png"
     content: "Pēc ceļgala operācijas un divu gadu rehabilitācijas šī procedūra man bija īsts 'gamechanger' – tā atgrieza cerību un kustību brīvību."
+
+  - name: "Eva Freimane"
+    avatar: "/images/avatar-sm.png"
+    content: "Gribu pateikt lielu paldies Eduardam un lāzeru aparatūrai, ar kuras palīdzību pēc otras gūžas operācijas ļoti ātri varēju nolikt kruķus malā un pārvietoties pati bez palīglīdzekļiem, kā arī rēta ātri sadzija un ir gluži nemanāma. Paldies, noteikti iesaku."
 
 
 ---

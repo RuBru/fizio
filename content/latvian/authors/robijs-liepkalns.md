@@ -1,7 +1,7 @@
 ---
 title: Robijs Liepkalns
 email: samwilson@email.com
-image: "/images/avatar.png"
+image: "/images/robijs-liepkalns.jpg"
 description: this is meta description
 ---
 
