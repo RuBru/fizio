@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Atbrīvojies no iekaisuma sāpēm ar lāzera palīdzību"
-  content: "Summus medicīnas lāzera procedūra ir neinvazīva terapijas metode sāpju mazināšanai, asins cirkulācijas uzlabošanai un iekaisuma ārstēšanai."
+  content: "Summus medicīnas lāzera procedūra ir neinvazīva terapijas metode sāpju mazināšanai, asins cirkulācijas uzlabošanai un iekaisuma ārstēšanai. **Uz jauna sadarbības līguma pamata šobrīd esam slēgti!**"
   image: "/images/banner.png"
   button:
     enable: true

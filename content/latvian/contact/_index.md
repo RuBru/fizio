@@ -2,9 +2,11 @@
 title: "Kontakti"
 subtitle: "Pieteikt procedūru tiešsaistē"
 meta_title: "Kontakti"
-description: "this is meta description"
+description: "Kontakti un pieteikšanās"
 draft: false
 ---
+
+**Uz jauna sadarbības līguma pamata šobrīd esam slēgti!**
 
 - Telefons: <a href='tel:+37128004444'>+371 28004444</a>
 - E-pasts: <a href='mailto:lasersummus@gmail.com'>lasersummus@gmail.com</a>
