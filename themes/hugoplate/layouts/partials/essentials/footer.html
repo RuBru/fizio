@@ -50,6 +50,23 @@
   <div class="border-border dark:border-darkmode-border border-t py-7">
     <div
       class="text-text-light dark:text-darkmode-text-light container text-center">
+      {{ with site.Params.institution }}
+        <ul class="mb-3 flex flex-wrap items-center justify-center gap-x-6 gap-y-2">
+          {{ with .registration_number }}
+            <li>
+              <i class="fa fa-file-medical mr-2" aria-hidden="true"></i
+              >{{ site.Params.institution.registration_label | default "Reģ. Nr." }}
+              <span class="whitespace-nowrap">{{ . }}</span>
+            </li>
+          {{ end }}
+          {{ with .accessibility_note }}
+            <li>
+              <i class="fa fa-wheelchair mr-2" aria-hidden="true"></i
+              >{{ . }}
+            </li>
+          {{ end }}
+        </ul>
+      {{ end }}
       <p>
         {{ site.Params.copyright | markdownify }}
       </p>

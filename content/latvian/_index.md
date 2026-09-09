@@ -8,6 +8,12 @@ banner:
     enable: true
     label: "Pieteikties procedūrai"
     link: "/contact"
+  # Trust badges shown directly under the banner button (first view)
+  badges:
+    - icon: "fa-file-medical"
+      text: "Ārstniecības iestādes reģ. Nr. 001000458"
+    - icon: "fa-wheelchair"
+      text: "Pieejams cilvēkiem ratiņkrēslā"
 
 # Features
 features:

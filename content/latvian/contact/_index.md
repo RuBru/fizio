@@ -8,9 +8,11 @@ draft: false
 - Telefons: <a href='tel:+37128004444'>+371 28004444</a>
 - E-pasts: <a href='mailto:lasersummus@gmail.com'>lasersummus@gmail.com</a>
 - Adrese: <a href='https://maps.app.goo.gl/aBYbjcuFuGkZfdJ16'>Daugavas ledus halle, Augšiela 1, Rīga</a>
+- Ārstniecības iestādes reģistrācijas Nr. 001000458
 
 Procedūras cena: 30 eur
 
 
 Daugavas stadiona teritorijā ir pieejama auto stāvvieta.
+Telpas un procedūras ir pieejamas cilvēkiem ratiņkrēslā.
 Lūdzam ierasties 10 minūtes pirms procedūras!

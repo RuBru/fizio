@@ -29,6 +29,12 @@ custom_script = ""
 # copyright
 copyright = "Lapu izstrādāja [SIA bruna](https://rotakalnina.lv/)"
 
+# Medical institution info, shown in the footer on every page
+[institution]
+registration_label = "Ārstniecības iestādes reģistrācijas Nr."
+registration_number = "001000458"
+accessibility_note = "Telpas un pakalpojumi pieejami cilvēkiem ratiņkrēslā"
+
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
 [preloader]
