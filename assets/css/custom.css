@@ -29,7 +29,7 @@
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  background: #1e5f82;
+  background: #58c6c0; /* Summus logo triangle teal */
   color: #fff;
 }
 .benefit__icon svg {
@@ -40,7 +40,7 @@
   font-size: 20px;
   font-weight: 600;
   line-height: 1.3;
-  color: #1c3a4d;
+  color: #000;
   text-align: left;
 }
 @media (max-width: 640px) {
