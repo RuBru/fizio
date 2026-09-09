@@ -24,19 +24,6 @@
                 </a>
               {{ end }}
             {{ end }}
-            {{ with .badges }}
-              <ul class="mt-8 flex flex-wrap items-center justify-center gap-3">
-                {{ range . }}
-                  <li
-                    class="border-border bg-light text-text-dark dark:border-darkmode-border dark:bg-darkmode-light dark:text-darkmode-text-dark inline-flex items-center gap-2 rounded-full border px-4 py-2 text-sm font-semibold">
-                    {{ with .icon }}
-                      <i class="fa {{ . }}" aria-hidden="true"></i>
-                    {{ end }}
-                    <span>{{ .text | markdownify }}</span>
-                  </li>
-                {{ end }}
-              </ul>
-            {{ end }}
           </div>
           <div class="col-12">
             {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}
