@@ -1,12 +1,12 @@
 /* Add your own custom styles here */
 
-/* Benefits strip under the homepage banner.
-   Values follow the "laser benefits strip (4e)" design handoff. */
+/* Benefits strip under the homepage banner title.
+   Based on the "laser benefits strip (4e)" design handoff, scaled up ~15%. */
 .benefits {
   display: flex;
   justify-content: space-between;
-  gap: 16px;
-  max-width: 760px;
+  gap: 20px;
+  max-width: 880px;
   margin: 0 auto;
   padding: 0;
   list-style: none;
@@ -14,30 +14,30 @@
 .benefit {
   display: flex;
   align-items: center;
-  gap: 14px;
+  gap: 16px;
   flex: 1;
 }
 .benefit:not(:last-child) {
   border-right: 1px solid #d3dde4;
-  padding-right: 16px;
+  padding-right: 20px;
 }
 .benefit__icon {
   display: flex;
   align-items: center;
   justify-content: center;
   flex: none;
-  width: 52px;
-  height: 52px;
+  width: 60px;
+  height: 60px;
   border-radius: 50%;
   background: #1e5f82;
   color: #fff;
 }
 .benefit__icon svg {
-  width: 28px;
-  height: 28px;
+  width: 32px;
+  height: 32px;
 }
 .benefit__label {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 600;
   line-height: 1.3;
   color: #1c3a4d;
@@ -46,7 +46,7 @@
 @media (max-width: 640px) {
   .benefits {
     flex-direction: column;
-    gap: 20px;
+    gap: 24px;
     /* Centre the stacked group under the centred banner text */
     width: fit-content;
   }

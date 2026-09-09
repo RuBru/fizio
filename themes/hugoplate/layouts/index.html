@@ -4,10 +4,17 @@
     <section class="section pt-14">
       <div class="container">
         <div class="row justify-center">
-          <div class="lg:col-7 md:col-9 mb-8 text-center">
+          <div class="lg:col-7 md:col-9 text-center">
             <h1 class="mb-4 text-h3 lg:text-h1">
               {{ .title | markdownify }}
             </h1>
+          </div>
+          {{ with .benefits }}
+            <div class="col-12 mt-4 mb-10">
+              {{ partial "components/benefits-strip" . }}
+            </div>
+          {{ end }}
+          <div class="lg:col-7 md:col-9 mb-8 text-center">
             <p class="mb-8">
               {{ .content | markdownify }}
             </p>
@@ -25,15 +32,11 @@
               {{ end }}
             {{ end }}
           </div>
-          <div class="col-12">
-            {{ with .benefits }}
-              {{ partial "components/benefits-strip" . }}
-            {{ else }}
-              {{ with .image }}
-                {{ partial "image" (dict "Src" . "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}
-              {{ end }}
-            {{ end }}
-          </div>
+          {{ if and .image (not .benefits) }}
+            <div class="col-12">
+              {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}
+            </div>
+          {{ end }}
         </div>
       </div>
     </section>
