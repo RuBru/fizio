@@ -14,5 +14,7 @@ Procedūras cena: 30 eur
 
 
 Daugavas stadiona teritorijā ir pieejama auto stāvvieta.
+
 Telpas un procedūras ir pieejamas cilvēkiem ratiņkrēslā.
+
 Lūdzam ierasties 10 minūtes pirms procedūras!
