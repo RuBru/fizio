@@ -1,0 +1,30 @@
+{{/*
+  Benefits strip: three round icon badges with short labels, separated by
+  thin dividers. Expects a slice of { icon, label }. Icons are Lucide line
+  icons (ISC license, https://lucide.dev), inlined as SVG paths.
+*/}}
+{{ $icons := dict
+  "zap-off" `<path d="M10.513 4.856 13.12 2.17a.5.5 0 0 1 .86.46l-1.377 4.317"/><path d="M15.656 10H20a1 1 0 0 1 .78 1.63l-1.72 1.773"/><path d="M16.273 16.273 10.88 21.83a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14H4a1 1 0 0 1-.78-1.63l4.507-4.643"/><path d="m2 2 20 20"/>`
+  "thermometer-snowflake" `<path d="m10 20-1.25-2.5L6 18"/><path d="M10 4 8.75 6.5 6 6"/><path d="M10.585 15H10"/><path d="M2 12h6.5"/><path d="M20 14.54a4 4 0 1 1-4 0V4a2 2 0 0 1 4 0z"/><path d="m4 10 1.5 2L4 14"/><path d="m7 21 3-6-1.5-3"/><path d="m7 3 3 6h2"/>`
+  "refresh-cw" `<path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16"/><path d="M8 16H3v5"/>`
+}}
+<ul class="benefits">
+  {{ range . }}
+    <li class="benefit">
+      <span class="benefit__icon" aria-hidden="true">
+        {{ with index $icons .icon }}
+          <svg
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.75"
+            stroke-linecap="round"
+            stroke-linejoin="round">
+            {{ . | safeHTML }}
+          </svg>
+        {{ end }}
+      </span>
+      <span class="benefit__label">{{ .label }}</span>
+    </li>
+  {{ end }}
+</ul>

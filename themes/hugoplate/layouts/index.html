@@ -26,7 +26,13 @@
             {{ end }}
           </div>
           <div class="col-12">
-            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}
+            {{ with .benefits }}
+              {{ partial "components/benefits-strip" . }}
+            {{ else }}
+              {{ with .image }}
+                {{ partial "image" (dict "Src" . "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}
+              {{ end }}
+            {{ end }}
           </div>
         </div>
       </div>
