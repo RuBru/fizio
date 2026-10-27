@@ -1,4 +1,7 @@
 #################### default parameters ############################
+# This legacy site forwards visitors to the new Medlaser website.
+redirect_base_url = "https://medlaser.lv"
+
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
 favicon = "images/favicon.png"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
